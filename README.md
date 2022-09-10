@@ -9,6 +9,7 @@ Patches (activate original)<br/>
 (a35) Magecrafting Good Wizard.rar<br/>
 (a35) Magecrafting Overlord.rar<br/>
 (a35) Magecrafting grave knight.rar<br/>
+(a35) (a35) Gnomes++ expansion.rar<br/>
 <br/>
 Compatability versions (dont activate original)<br/>
 (a35) Back to Nature Purelands.rar<br/>
